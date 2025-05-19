@@ -4,7 +4,7 @@ Jabli Mehdi Bahri</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenneccyber&label=Profile%20views&color=0e75b6&style=flat" alt="JabliMehdiBahri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jablimehdibahri" target="blank"><img src="https://pbs.twimg.com/profile_images/1816286135338840064/vyj2QgFu_400x400.jpg" alt="jablimehdibahri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jablimehdibahri" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="jablimehdibahri" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -41,7 +41,7 @@ Jabli Mehdi Bahri</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@fenneccyber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="linktr.ee/fenneccyber">
+		<a style="margin-left: 5px;" target="_blank" href="https://linktr.ee/fenneccyber">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
