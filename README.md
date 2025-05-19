@@ -40,7 +40,7 @@ Jabli Mehdi Bahri</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@fenneccyber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://linktr.ee/jablimehdibahri">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
       </div>
 
 </p>
