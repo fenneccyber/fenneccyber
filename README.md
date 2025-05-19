@@ -18,8 +18,6 @@ Jabli Mehdi Bahri</a></h1>
 
 - 🌱 I’m currently learning React && Next.js
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about **IT & AI**
 
 - 📫 How to reach me **logmehditt@gmail.com**
