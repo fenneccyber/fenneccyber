@@ -10,7 +10,7 @@ Jabli Mehdi Bahri</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="ElMoufid.vercel.app" target="blank">El Moufid Project</a>
+- 🔭 I’m currently working in <a href="https://ElMoufid.vercel.app" target="blank">El Moufid Project</a>
 
 - 🌱 I’m currently Working on Web App (Next.js)
 
@@ -22,7 +22,7 @@ Jabli Mehdi Bahri</a></h1>
 
 - 📫 How to reach me **logmehditt@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://linktr.ee/jablimehdibahri" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
