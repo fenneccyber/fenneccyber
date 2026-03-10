@@ -20,7 +20,7 @@ Jabli Mehdi Bahri</a></h1>
 
 - 💬 Ask me about **IT & AI**
 
-- 📫 How to reach me **logmehditt@gmail.com**
+- 📫 How to reach me **fenneccybercontact@gmail.com**
 
 - 📄 Know about my experiences <a href="cv.pdf" target="blank">Resume</a>
 <br/>
