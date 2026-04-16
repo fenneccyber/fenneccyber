@@ -4,7 +4,7 @@ FennecCyber</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenneccyber&label=Profile%20views&color=0e75b6&style=flat" alt="JabliMehdiBahri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jablimehdibahri" target="blank"><img src="https://img.shields.io/twitter/follow/JabliMehdiBahri?logo=twitter&style=for-the-badge" alt="jablimehdibahri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jablimehdibahri" target="blank"><img src="https://img.shields.io/twitter/follow/JabliMehdiBahri?logo=twitter&style=for-the-badge" alt="FennecCyber X" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
