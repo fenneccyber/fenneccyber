@@ -2,7 +2,7 @@
 FennecCyber</a></h1>
 <h3 align="center">A passionate Web Developer from Oran Algeria &#127465;&#127487</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenneccyber&label=Profile%20views&color=0e75b6&style=flat" alt="JabliMehdiBahri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenneccyber&label=Profile%20views&color=0e75b6&style=flat" alt="FennecCyber" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fenneccybe86843" target="blank"><img src="https://img.shields.io/twitter/follow/JabliMehdiBahri?logo=twitter&style=for-the-badge" alt="FennecCyber X" /></a> </p>
 
@@ -29,7 +29,7 @@ FennecCyber</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jabli-mehdi-bahri/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fenneccyber/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/fenneccyber">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
